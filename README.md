@@ -113,7 +113,7 @@ The 2023 e-commerce sales data was analyzed using **Tableau** to extract insight
 🔹 **Electronic payments are the most commonly used, with PayPal topping the list**.
 
 ## **Conclusion**
-💡 **The results indicate that electronics, older customers, and seasonality play a major role in driving sales. Additionally, premium memberships positively impact spending, while
+💡 **The results indicate that electronics, older customers, and seasonality play a major role in driving sales. Additionally, premium memberships positively impact spending, while Discounts don't always guarantee increased sales.
 
 ## Illustrative Images
 - **Final Dashboard Image**: ![Dashboard 2 (1)](https://github.com/user-attachments/assets/2347c322-96d5-4215-ac04-ab538381f8b5)
