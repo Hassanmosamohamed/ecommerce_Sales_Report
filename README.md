@@ -27,7 +27,8 @@ The project includes:
 - **Most used payment method**: PayPal (26%).
 
 ## Changes made
-- Added new columns: `Net_Revenue`, `Total discount`, `age group`.
+- Added new columns: `Net_Revenue`, `Total discount`, `age group`,`day Name` , `Month Name` , `Total Discount`
+ 
 - Split age groups (e.g. 18-30, 31-40, etc).
 - Improved data visualization using Pivot Tables.
 
@@ -41,9 +42,11 @@ The project includes:
 - Higher discounts (e.g. 5%) were accompanied by higher quantity sold.
 4. **Which age groups buy the most?**
 - 51-65 (3,171 purchases).
-5. **Which region sells the most?**
+5. **Which region sells the most?**  
 - Africa ($4.03 million).
 
 ## Illustrative Images
-- **Final Dashboard Image**: []
-- **Raw Data View in Excel**: [Put_Image_Link_Here]
+- **Final Dashboard Image**: ![Dashboard 2 (1)](https://github.com/user-attachments/assets/2347c322-96d5-4215-ac04-ab538381f8b5)
+- Pivote Table **: <img width="798" alt="‏لقطة الشاشة ٢٠٢٥-٠٢-١٦ في ٧ ١٢ ٥٣ ص" src="https://github.com/user-attachments/assets/e464f1ee-31c7-47d1-b885-9cf6f6cb1fdc" />
+
+- **Raw Data View in Excel**:<img width="1270" alt="‏لقطة الشاشة ٢٠٢٥-٠٢-١٦ في ٦ ٣٢ ١٢ ص" src="https://github.com/user-attachments/assets/9817428e-ac67-4dc5-88b2-1af619c52a7b" />
