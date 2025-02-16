@@ -116,7 +116,8 @@ The 2023 e-commerce sales data was analyzed using **Tableau** to extract insight
 💡 **The results indicate that electronics, older customers, and seasonality play a major role in driving sales. Additionally, premium memberships positively impact spending, while Discounts don't always guarantee increased sales.
 
 ## Illustrative Images
-- **Final Dashboard Image**: ![Dashboard 2 (1)](https://github.com/user-attachments/assets/2347c322-96d5-4215-ac04-ab538381f8b5)
+- **Final Dashboard Image**: ![Dashboard 2 (1)] ![Dashboard 2 (1)](https://github.com/user-attachments/assets/30f7c842-433d-4811-8321-a5a443dad70d)
+
 - Pivote Table **: <img width="798" alt="‏لقطة الشاشة ٢٠٢٥-٠٢-١٦ في ٧ ١٢ ٥٣ ص" src="https://github.com/user-attachments/assets/e464f1ee-31c7-47d1-b885-9cf6f6cb1fdc" />
 
 - **Raw Data View in Excel**:<img width="1270" alt="‏لقطة الشاشة ٢٠٢٥-٠٢-١٦ في ٦ ٣٢ ١٢ ص" src="https://github.com/user-attachments/assets/9817428e-ac67-4dc5-88b2-1af619c52a7b" />
